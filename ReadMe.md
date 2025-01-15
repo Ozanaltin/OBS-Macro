@@ -34,7 +34,7 @@ git clone https://github.com/Ozanaltin/OBS-Macro.git
 ```
 
 ### Step 2: Choose `StartOBS.bat` as an Executable App for Your Macro
-![Start OBS Macro](screenshots/StartOBS%20-%20Macro%20G%20hub.PNG)
+![Start OBS Macro](screenshots/StartOBS.PNG)
 1. Open your keyboard or macro software (e.g., Logitech G HUB, Razer Synapse).
 2. Create a new macro or assign a key.
 3. Set the macro action to **Run a Program** or equivalent.
@@ -42,7 +42,7 @@ git clone https://github.com/Ozanaltin/OBS-Macro.git
 
 
 ### Step 3: Start/Stop Recording
-![Toggle Recording Macro](screenshots/Start_Stop%20Recording%20Macro.PNG)
+![Toggle Recording Macro](screenshots/ToggleRecording.PNG)
 1. Open OBS Studio.
 2. Go to **Settings > Hotkeys**.
 3. Assign a hotkey for toggling recording:

@@ -1,7 +1,7 @@
 @echo off
 
 :: Path to OBS executable
-set OBS_PATH="C:\Program Files\obs-studio\bin\64bit\obs64.exe"
+set OBS_PATH="C:\Program Files\obs-studio\bin\64bit\obs64.exe" 
 
 :: Check if OBS is already running
 tasklist /FI "IMAGENAME eq obs64.exe" | find /I "obs64.exe" >nul
